@@ -9,16 +9,13 @@
             </div>
             <div class="col-md-3">
               <ul id="footerList">
-                <li><a href="#">Website</a></li>
-                <li><a href="#">Development</a></li>
-                <li><a href="#">Design</a></li>
-                <li><a href="#">Brands</a></li>
+                <li><a href="#">Privacy Policy</a></li>
+             
               </ul>
             </div>
             <div class="col-md-3">
               <ul id="footerList">
-                <li><a href="careers.php">Jobs</a></li>
-                <li><a href="tc.php">Privacy Policy</a></li>
+                      <li><a href="careers.php">Jobs</a></li>
               </ul>
             </div>
           </div>
